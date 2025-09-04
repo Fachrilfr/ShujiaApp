@@ -1,6 +1,6 @@
 # Shujia – Book Home Service
 
-## 📖 Introduction
+## Introduction
 **Shujia – Book Home Service** is a website that makes it easy for users to book trusted home services online.  
 It offers various service categories such as **Living Room with Home Family Theater, Gardens, Kitchens, Recreations, Storages, and Security**.  
 
@@ -11,9 +11,9 @@ Designed with a **responsive layout** and **intuitive navigation**, Shujia provi
 # App Screenshot
 
 <img src="shujiafeAriel/public/assets/images/Shujia -.png" width="auto" height="auto" >
-<img src="https://github.com/Fachrilfr/juaratiket/blob/0277fe5aa4bec8699f1276d3721d5fa8fac742e3/adminFillament.png" width="auto" height="auto" >
+<img src="shujiafeAriel/public/assets/images/Screenshot 2025-09-04 235213.png" width="auto" height="auto" >
 
-## 📂 What's Inside
+## What's Inside
 This repository contains two main folders:
 
 - **`shujia/`** → Backend API  
