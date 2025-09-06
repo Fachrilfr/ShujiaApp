@@ -10,7 +10,7 @@ Designed with a **responsive layout** and **intuitive navigation**, Shujia provi
 
 # App Screenshot
 
-<img src="shujiafeAriel/public/assets/images/Shujia -.png" width="auto" height="auto" >
+<img src="shujiafeAriel/public/assets/images/Splash Screen (11).png" width="auto" height="auto" >
 <img src="shujiafeAriel/public/assets/images/Screenshot 2025-09-04 235213.png" width="auto" height="auto" >
 
 ## What's Inside
